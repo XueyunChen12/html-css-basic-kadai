@@ -12,3 +12,15 @@ p{
   background-color: #ffd9df;
   display: inline-block;
 }
+#middle{
+  width: 800px;
+  height: 800px;
+  margin: 20px auto;
+  background-color: #ffd9df;
+}
+#middle-child01,#middle-child02,#middle-child03{
+  width: 200px;
+  height: 200px;
+  background-color: #87ceeb;
+  
+}
